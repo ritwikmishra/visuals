@@ -8,7 +8,8 @@ Helpful for visualising data (though not easy to interpret by human eyes)
 
 ## legends.txt
 
-```Test conducted on: 2019-04-24 13:10:19:989372
+```
+Test conducted on: 2019-04-24 13:10:19:989372
 X-axis = 'att1' attribute
 Y-axis = 'att2' attribute
 Z-axis = 'att3' attribute
@@ -35,4 +36,5 @@ Width of the point edge depends on 'att10' attribute. All the values are scaled 
 	Refer to the source code to see the formula.
 
 		Images generated successfully!
-===================================================================```
+===================================================================
+```
